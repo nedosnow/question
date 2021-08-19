@@ -1,0 +1,2 @@
+export const EACH_QUESTION = "EACH_QUESTION";
+export const TARGET_QUESTION = "TARGET_QUESTION";

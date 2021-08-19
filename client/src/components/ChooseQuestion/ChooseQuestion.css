@@ -1,0 +1,12 @@
+.card{
+  position:absolute;
+  width: 30rem;
+  display: flex;
+  align-items: center;
+  top: 15%;
+  justify-content: center;
+  margin-inline: 22%;
+  font-size: 25px;
+
+  z-index: 1;
+}
